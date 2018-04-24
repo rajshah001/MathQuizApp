@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="welcome">Welcome to the Math Quiz</string>
+    <string name="name">Please enter your name here : </string>
+    <string name="q1"> 1) What is the sum of 12 and 52 ? </string>
+    <string name="q2"> 2) What is the angle of an equilateral triangle ? </string>
+    <string name="q3"> 3) What is the value of c in the given triangle ? </string>
+    <string name="q4"> 4) What is the value of 5 * 4 / 20 + 10 ? </string>
+    <string name="q5"> 5) 23 is a  </string>
+    <string name="q6"> 6) What is the area of a rectangle having sides of 5cm and 7cm ? </string>
+    <string name="q7"> 7) What is the unknown angle in the given triangle ? </string>
+    <string name="q8"> 8) Give the correct value of pi upto 4 decimals ? </string>
+    <string name="q9"> 9) What is the area of a circle having radius 10cm ? </string>
+    <string name="q10"> 10) What is the perimeter of a square whose one side is 5cm long ? </string>
+    <string name="odd_number">Odd Number</string>
+    <string name="positive_number">Positive Number</string>
+    <string name="negative_number">Negative Number</string>
+    <string name="even_number">Even Number</string>
+    <string name="submit">Submit</string>
+</resources>
